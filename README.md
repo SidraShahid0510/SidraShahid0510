@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ A creative and detail-oriented Front-End Developer with a passion for building clean, responsive, and user-friendly websites. Skilled in HTML, CSS, and JavaScript, with a strong interest in turning ideas into engaging digital experiences. Continuously learning and exploring new tools to create modern, accessible, and visually appealing web interfaces.
 <!--
 **SidraShahid0510/SidraShahid0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
