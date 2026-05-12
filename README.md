@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Sidra%20Shahid&fontSize=45&fontColor=000000&fontAlign=50&fontAlignY=40&desc=Frontend%20Development%20Student&descColor=000000&descAlign=50&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=blur&height=170&color=gradient&text=Sidra%20Shahid&fontSize=45&fontColor=000000&fontAlign=50&fontAlignY=40&desc=Frontend%20Development%20Student&descColor=000000&descAlign=50&descAlignY=60&animation=fadeIn)
 
 
 
