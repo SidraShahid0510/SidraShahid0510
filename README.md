@@ -28,11 +28,15 @@ I am a frontend development student passionate about creating clean, responsive,
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🍽️ Yumm Stories
 
-<img src="./assets/yumm-stories.png" width="100%" />
+<img src="./assets/yumm-stories.png" 
+     width="100%" 
+     height="250px"
+     style="object-fit: cover;" />
 
 Yumm Stories is a responsive food blogging website where users can explore, create, and manage food stories.
 
@@ -44,17 +48,21 @@ Yumm Stories is a responsive food blogging website where users can explore, crea
 
 <td width="50%">
 
-### 🛒 Shopping Cart
+### 🏛️ Community Science Museum
 
-<img src="./assets/yumm-stories.png" width="100%" />
+<img src="./assets/csm.png" 
+     width="100%" 
+     height="250px"
+     style="object-fit: cover;" />
 
-A responsive website for the Community Science Museum, featuring exhibits, educational content, and user-friendly navigation across all devices.
+A responsive website featuring exhibits, educational content, and user-friendly navigation across all devices.
 
-**Tech:** HTML • CSS 
+**Tech:** HTML • CSS
 
-🔗 [Live Demo](https://sidrashahid0510.github.io/Community-Science-Museum/) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/Community-Science-Museum.git))
+🔗 [Live Demo](https://sidrashahid0510.github.io/Community-Science-Museum/) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/Community-Science-Museum.git)
 
 </td>
+
 </tr>
 </table>
 
