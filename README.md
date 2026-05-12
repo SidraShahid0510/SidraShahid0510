@@ -34,7 +34,7 @@ I am a frontend development student passionate about creating clean, responsive,
 
 <img src="./assets/yumm-stories.png" width="100%" />
 
-Yumm Stories is a responsive food blogging website where users can explore, create, and manage food stories. Built with HTML, CSS, and JavaScript, it uses the Noroff API to support full CRUD functionality for blog posts.
+Yumm Stories is a responsive food blogging website where users can explore, create, and manage food stories.
 
 **Tech:** HTML • CSS • JavaScript • API
 
@@ -48,11 +48,11 @@ Yumm Stories is a responsive food blogging website where users can explore, crea
 
 <img src="./assets/yumm-stories.png" width="100%" />
 
-Interactive shopping cart with Local Storage.
+A responsive website for the Community Science Museum, featuring exhibits, educational content, and user-friendly navigation across all devices.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** HTML • CSS 
 
-🔗 [Live Demo](https://yummstories.netlify.app/) | 💻 [GitHub Repository]([https://github.com/yourusername/project-name](https://github.com/SidraShahid0510/FED1-PE1-SidraShahid0510-YT.git))
+🔗 [Live Demo](https://sidrashahid0510.github.io/Community-Science-Museum/) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/Community-Science-Museum.git))
 
 </td>
 </tr>
