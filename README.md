@@ -26,9 +26,39 @@ https://github.com/SidraShahid0510/FED1-PORTFOLIO/blob/main/images/yumm-stories.
 
 ## 🌟 Featured Projects
 
-### 🍽️ Yumm Tales Blog
-| **Yumm Tales Blog** <br> Responsive food blog with API integration. | <[img src="./assets/yumm-tales.png" width="250"/](https://github.com/SidraShahid0510/FED1-PORTFOLIO/blob/main/images/yumm-stories.png?raw=true)> | [Live Demo](#) <br> [Repository](#) |
+<table>
+<tr>
+<td width="50%">
 
+### 🍽️ Yumm Tales
+
+<img src="./assets/yumm-stories.png" width="100%" />
+
+Responsive food blog with API integration and modern UI.
+
+**Tech:** HTML • CSS • JavaScript • API
+
+🔗 [Live Demo](#)  
+💻 [Repository](#)
+
+</td>
+
+<td width="50%">
+
+### 🛒 Shopping Cart
+
+<img src="./assets/yumm-stories.png" width="100%" />
+
+Interactive shopping cart with Local Storage.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [Live Demo](#)  
+💻 [Repository](#)
+
+</td>
+</tr>
+</table>
 
 
   
