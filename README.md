@@ -30,11 +30,11 @@ https://github.com/SidraShahid0510/FED1-PORTFOLIO/blob/main/images/yumm-stories.
 <tr>
 <td width="50%">
 
-### 🍽️ Yumm Tales
+### 🍽️ Yumm Stories
 
 <img src="./assets/yumm-stories.png" width="100%" />
 
-Responsive food blog with API integration and modern UI.
+Yumm Stories is a responsive food blogging website where users can explore, create, and manage food stories. Built with HTML, CSS, and JavaScript, it uses the Noroff API to support full CRUD functionality for blog posts.
 
 **Tech:** HTML • CSS • JavaScript • API
 
@@ -52,7 +52,7 @@ Interactive shopping cart with Local Storage.
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 [Live Demo](https://your-site.netlify.app) | 💻 [GitHub Repository](https://github.com/yourusername/project-name)
+🔗 [Live Demo](https://yummstories.netlify.app/) | 💻 [GitHub Repository]([https://github.com/yourusername/project-name](https://github.com/SidraShahid0510/FED1-PE1-SidraShahid0510-YT.git))
 
 </td>
 </tr>
