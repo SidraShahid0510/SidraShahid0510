@@ -11,7 +11,7 @@ I am a frontend development student passionate about creating clean, responsive,
 - 🎯 Goal: Become a professional frontend developer
 - ✨ Interested in responsive design, accessibility, and modern UI
 
-https://github.com/SidraShahid0510/FED1-PORTFOLIO/blob/main/images/yumm-stories.png?raw=true
+
 ## 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +38,7 @@ Yumm Stories is a responsive food blogging website where users can explore, crea
 
 **Tech:** HTML • CSS • JavaScript • API
 
-🔗 [Live Demo](https://your-site.netlify.app) | 💻 [GitHub Repository](https://github.com/yourusername/project-name)
+🔗 [Live Demo](https://yummstories.netlify.app/) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/FED1-PE1-SidraShahid0510-YT.git)
 
 </td>
 
