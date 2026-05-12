@@ -11,7 +11,7 @@ I am a frontend development student passionate about creating clean, responsive,
 - 🎯 Goal: Become a professional frontend developer
 - ✨ Interested in responsive design, accessibility, and modern UI
 
-
+https://github.com/SidraShahid0510/FED1-PORTFOLIO/blob/main/images/yumm-stories.png?raw=true
 ## 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +23,11 @@ I am a frontend development student passionate about creating clean, responsive,
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+## 🌟 Featured Projects
+
+### 🍽️ Yumm Tales Blog
+| **Yumm Tales Blog** <br> Responsive food blog with API integration. | <[img src="./assets/yumm-tales.png" width="250"/](https://github.com/SidraShahid0510/FED1-PORTFOLIO/blob/main/images/yumm-stories.png?raw=true)> | [Live Demo](#) <br> [Repository](#) |
 
 
 
