@@ -64,6 +64,43 @@ A responsive website featuring exhibits, educational content, and user-friendly 
 </td>
 
 </tr>
+<tr>
+
+<td width="50%">
+
+### 🎮 Game hub
+
+<img src="./assets/Game-hub.png" 
+     width="100%" 
+     height="250px"
+     style="object-fit: cover;" />
+     
+This website was to create an interactive online store to display products from an API endpoint.
+
+**Tech:** HTML • CSS • JavaScript • API
+
+🔗 [Live Demo](https://sidrashahid0510.github.io/JavaScript-CA/) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/Game-Hub.git)
+
+</td>
+
+<td width="50%">
+
+### 👥 ZING Social Media App
+
+<img src="./assets/zing.png" 
+     width="100%" 
+     height="250px"
+     style="object-fit: cover;" />
+
+Zing is a social media app featuring CRUD posts, comments, reactions, and follow/unfollow functionality.
+
+**Tech:** HTML • CSS • Vanilla JS (ES modules)
+
+🔗 [Live Demo](https://sidrashahid0510.github.io/ZING-SM-APP/index.html) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/ZING-SM-APP.git)
+
+</td>
+
+</tr>
 </table>
 
 
