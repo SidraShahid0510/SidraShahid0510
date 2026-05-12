@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=blur&height=170&color=gradient&text=Sidra%20Shahid&fontSize=45&fontColor=000000&fontAlign=50&fontAlignY=40&desc=Frontend%20Development%20Student&descColor=000000&descAlign=50&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=blur&height=130&color=gradient&text=Sidra%20Shahid&fontSize=45&fontColor=000000&fontAlign=50&fontAlignY=40&desc=Frontend%20Development%20Student&descColor=000000&descAlign=50&descAlignY=60&animation=fadeIn)
 
 
 
@@ -38,8 +38,7 @@ Responsive food blog with API integration and modern UI.
 
 **Tech:** HTML • CSS • JavaScript • API
 
-🔗 [Live Demo](#)  
-💻 [Repository](#)
+🔗 [Live Demo](https://your-site.netlify.app) | 💻 [GitHub Repository](https://github.com/yourusername/project-name)
 
 </td>
 
@@ -53,8 +52,7 @@ Interactive shopping cart with Local Storage.
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 [Live Demo](#)  
-💻 [Repository](#)
+🔗 [Live Demo](https://your-site.netlify.app) | 💻 [GitHub Repository](https://github.com/yourusername/project-name)
 
 </td>
 </tr>
