@@ -32,142 +32,49 @@ Yumm Stories is a responsive food blogging website where users can explore, crea
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://yummstories.netlify.app/) [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/FED1-PE1-SidraShahid0510-YT.git)
 ---
-
-
-
-
-
-
-
-
-
-### 👥 ZING Social Media App
-Social media platform with CRUD functionality.
-
-`HTML` `CSS` `Vanilla JS`
-
-🔗 Live Demo • Repository
-
-
-
-
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🍽️ Yumm Stories
-
-<img src="./assets/yumm-stories.png" 
-     width="100%" 
-     height="250px"
- />
-
-Yumm Stories is a responsive food blogging website where users can explore, create, and manage food stories.
-
-**Tech:** HTML • CSS • JavaScript • API
-
-🔗 [Live Demo](https://yummstories.netlify.app/) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/FED1-PE1-SidraShahid0510-YT.git)
-
-</td>
-
-<td width="50%">
-
 ### 🏛️ Community Science Museum
-
-<img src="./assets/csm.png" 
-     width="100%" 
-     height="250px"
-    />
-
 A responsive website featuring exhibits, educational content, and user-friendly navigation across all devices.
 
 **Tech:** HTML • CSS
 
-🔗 [Live Demo](https://sidrashahid0510.github.io/Community-Science-Museum/) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/Community-Science-Museum.git)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%">
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/Community-Science-Museum/) [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/Community-Science-Museum.git)
+---
 
 ### 🎮 Game hub
-
-<img src="./assets/Game-hub.png" 
-     width="100%" 
-     height="250px"
-  />
      
 This website was to create an interactive online store to display products from an API endpoint.
 
 **Tech:** HTML • CSS • JavaScript • API
 
-🔗 [Live Demo](https://sidrashahid0510.github.io/JavaScript-CA/) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/Game-Hub.git)
-
-</td>
-
-<td width="50%">
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/JavaScript-CA/) [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/Game-Hub.git)
+---
 
 ### 👥 ZING Social Media App
-
-<img src="./assets/zing.png" 
-     width="100%" 
-     height="250px"
-  />
-
 Zing is a social media app featuring CRUD posts, comments, reactions, and follow/unfollow functionality.
 
 **Tech:** HTML • CSS • Vanilla JS (ES modules)
 
-🔗 [Live Demo](https://sidrashahid0510.github.io/ZING-SM-APP/index.html) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/ZING-SM-APP.git)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/ZING-SM-APP/index.html) [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/ZING-SM-APP.git)
+---
 ### 💻 Development Platform
 
-<img src="./assets/development-platform.png" 
-     width="100%" 
-     height="250px"
- />
-     
 A REST API that allows users to register, log in, and submit news articles with secure JWT authentication.
 
 **Tech:** Node.js • Express • TypeScript • MySQL
 
-🔗 [Live Demo](https://sidrashahid0510.github.io/JavaScript-CA/) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/Game-Hub.git)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/development-platforms-ca.git)
+---
+### 🔨 Auction House
+A responsive Auction House web app where users can browse listings, create auctions, manage items, and place bids with a clean and user-friendly interface.
 
-</td>
+**Tech:** HTML • SaSS • JavaScript • Noroff API
 
-<td width="50%">
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/auction-house-semester-project/index.html)  [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/auction-house-semester-project.git)
+---
 
-### 👥 ZING Social Media App
 
-<img src="./assets/zing.png" 
-     width="100%" but i dont want 
-     height="250px"
-   />
 
-Zing is a social media app featuring CRUD posts, comments, reactions, and follow/unfollow functionality.
 
-**Tech:** HTML • CSS • Vanilla JS (ES modules)
-
-🔗 [Live Demo](https://sidrashahid0510.github.io/ZING-SM-APP/index.html) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/ZING-SM-APP.git)
-
-</td>
-
-</tr>
-</table>
 
 
   
