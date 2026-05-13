@@ -50,7 +50,7 @@ Yumm Stories is a responsive food blogging website where users can explore, crea
 
 ### 🏛️ Community Science Museum
 
-<img src="./assets/csm.png" 
+<img src="./assets/csm-img.png" 
      width="100%" 
      height="250px"
      style="object-fit: cover;" />
@@ -78,6 +78,44 @@ A responsive website featuring exhibits, educational content, and user-friendly 
 This website was to create an interactive online store to display products from an API endpoint.
 
 **Tech:** HTML • CSS • JavaScript • API
+
+🔗 [Live Demo](https://sidrashahid0510.github.io/JavaScript-CA/) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/Game-Hub.git)
+
+</td>
+
+<td width="50%">
+
+### 👥 ZING Social Media App
+
+<img src="./assets/zing.png" 
+     width="100%" 
+     height="250px"
+     style="object-fit: cover;" />
+
+Zing is a social media app featuring CRUD posts, comments, reactions, and follow/unfollow functionality.
+
+**Tech:** HTML • CSS • Vanilla JS (ES modules)
+
+🔗 [Live Demo](https://sidrashahid0510.github.io/ZING-SM-APP/index.html) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/ZING-SM-APP.git)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Development Platform
+
+<img src="./assets/development-platform.png" 
+     width="100%" 
+     height="250px"
+     style="object-fit: cover;" />
+     
+A REST API that allows users to register, log in, and submit news articles with secure JWT authentication.
+
+**Tech:** Node.js • Express • TypeScript • MySQL
 
 🔗 [Live Demo](https://sidrashahid0510.github.io/JavaScript-CA/) | 💻 [GitHub Repository](https://github.com/SidraShahid0510/Game-Hub.git)
 
