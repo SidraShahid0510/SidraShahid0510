@@ -22,7 +22,9 @@ I am a frontend development student passionate about creating clean, responsive,
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0F4C81?style=for-the-badge&logo=mysql&logoColor=white)
 ## 🚀 Featured Projects
 
 ### 🍽️ Yumm Stories
