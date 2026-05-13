@@ -50,7 +50,7 @@ Yumm Stories is a responsive food blogging website where users can explore, crea
 
 ### 🏛️ Community Science Museum
 
-<img src="./assets/csm-img.png" 
+<img src="./assets/csm.png" 
      width="100%" 
      height="250px"
      style="object-fit: cover;" />
