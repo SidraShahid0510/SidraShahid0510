@@ -23,6 +23,34 @@ I am a frontend development student passionate about creating clean, responsive,
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🚀 Featured Projects
+
+### 🍽️ Yumm Stories
+Yumm Stories is a responsive food blogging website where users can explore, create, and manage food stories.
+
+**Tech:** HTML • CSS • JavaScript • API
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://yummstories.netlify.app/) [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/FED1-PE1-SidraShahid0510-YT.git)
+---
+
+
+
+
+
+
+
+
+
+### 👥 ZING Social Media App
+Social media platform with CRUD functionality.
+
+`HTML` `CSS` `Vanilla JS`
+
+🔗 Live Demo • Repository
+
+
+
+
 
 ## 🌟 Featured Projects
 
