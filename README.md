@@ -36,7 +36,7 @@ I am a frontend development student passionate about creating clean, responsive,
 <img src="./assets/yumm-stories.png" 
      width="100%" 
      height="250px"
-     style="object-fit: cover;" />
+ />
 
 Yumm Stories is a responsive food blogging website where users can explore, create, and manage food stories.
 
@@ -53,7 +53,7 @@ Yumm Stories is a responsive food blogging website where users can explore, crea
 <img src="./assets/csm.png" 
      width="100%" 
      height="250px"
-     style="object-fit: cover;" />
+    />
 
 A responsive website featuring exhibits, educational content, and user-friendly navigation across all devices.
 
@@ -73,7 +73,7 @@ A responsive website featuring exhibits, educational content, and user-friendly 
 <img src="./assets/Game-hub.png" 
      width="100%" 
      height="250px"
-     style="object-fit: cover;" />
+  />
      
 This website was to create an interactive online store to display products from an API endpoint.
 
@@ -90,7 +90,7 @@ This website was to create an interactive online store to display products from 
 <img src="./assets/zing.png" 
      width="100%" 
      height="250px"
-     style="object-fit: cover;" />
+  />
 
 Zing is a social media app featuring CRUD posts, comments, reactions, and follow/unfollow functionality.
 
@@ -111,7 +111,7 @@ Zing is a social media app featuring CRUD posts, comments, reactions, and follow
 <img src="./assets/development-platform.png" 
      width="100%" 
      height="250px"
-     style="object-fit: cover;" />
+ />
      
 A REST API that allows users to register, log in, and submit news articles with secure JWT authentication.
 
@@ -126,9 +126,9 @@ A REST API that allows users to register, log in, and submit news articles with 
 ### 👥 ZING Social Media App
 
 <img src="./assets/zing.png" 
-     width="100%" 
+     width="100%" but i dont want 
      height="250px"
-     style="object-fit: cover;" />
+   />
 
 Zing is a social media app featuring CRUD posts, comments, reactions, and follow/unfollow functionality.
 
