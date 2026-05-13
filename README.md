@@ -42,7 +42,7 @@ A responsive website featuring exhibits, educational content, and user-friendly 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/Community-Science-Museum/) [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/Community-Science-Museum.git)
 ---
 
-### 🎮 Game hub
+### 🎮 Game Hub
      
 This website was to create an interactive online store to display products from an API endpoint.
 
@@ -69,13 +69,16 @@ A REST API that allows users to register, log in, and submit news articles with 
 ### 🔨 Auction House
 A responsive Auction House web app where users can browse listings, create auctions, manage items, and place bids with a clean and user-friendly interface.
 
-**Tech:** HTML • SaSS • JavaScript • Noroff API
+**Tech:** HTML • Sass • JavaScript • Noroff API
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/auction-house-semester-project/index.html)  [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/auction-house-semester-project.git)
 ---
 
 
+## 📫 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://sidrashahid0510.github.io/FED1-PORTFOLIO/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510)
 
 
 
