@@ -43,6 +43,15 @@ A responsive Auction House web app where users can browse listings, create aucti
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/auction-house-semester-project/index.html)  [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/auction-house-semester-project.git)
 ---
 
+### 🛒 Next Online Shop
+A Responsive e-commerce app built with Next.js, React, TypeScript, and Zustand, featuring product browsing, cart management, checkout, and a modern user-friendly interface.
+
+**Tech:** HTML • Sass • JavaScript • Noroff API
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://jsfw-2025-v1-sidra-shahid-pxim.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoroffFEU/jsfw-2025-v1-sidra-shahid.git)
+---
+
 ### 🍽️ Yumm Stories
 Yumm Stories is a responsive food blogging website where users can explore, create, and manage food stories.
 
