@@ -27,6 +27,22 @@ I am a frontend development student passionate about creating clean, responsive,
 ![MySQL](https://img.shields.io/badge/MySQL-0F4C81?style=for-the-badge&logo=mysql&logoColor=white)
 ## 🚀 Featured Projects
 
+### 👥 ZING Social Media App
+Zing is a social media app featuring CRUD posts, comments, reactions, and follow/unfollow functionality.
+
+**Tech:** HTML • CSS • Vanilla JS (ES modules)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/ZING-SM-APP/index.html) [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/ZING-SM-APP.git)
+---
+
+### 🔨 Auction House
+A responsive Auction House web app where users can browse listings, create auctions, manage items, and place bids with a clean and user-friendly interface.
+
+**Tech:** HTML • Sass • JavaScript • Noroff API
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/auction-house-semester-project/index.html)  [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/auction-house-semester-project.git)
+---
+
 ### 🍽️ Yumm Stories
 Yumm Stories is a responsive food blogging website where users can explore, create, and manage food stories.
 
@@ -51,13 +67,7 @@ This website was to create an interactive online store to display products from 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/JavaScript-CA/) [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/Game-Hub.git)
 ---
 
-### 👥 ZING Social Media App
-Zing is a social media app featuring CRUD posts, comments, reactions, and follow/unfollow functionality.
 
-**Tech:** HTML • CSS • Vanilla JS (ES modules)
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/ZING-SM-APP/index.html) [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/ZING-SM-APP.git)
----
 ### 💻 Development Platform
 
 A REST API that allows users to register, log in, and submit news articles with secure JWT authentication.
@@ -66,13 +76,7 @@ A REST API that allows users to register, log in, and submit news articles with 
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/development-platforms-ca.git)
 ---
-### 🔨 Auction House
-A responsive Auction House web app where users can browse listings, create auctions, manage items, and place bids with a clean and user-friendly interface.
 
-**Tech:** HTML • Sass • JavaScript • Noroff API
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/auction-house-semester-project/index.html)  [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/auction-house-semester-project.git)
----
 
 
 ## 📫 Connect With Me
