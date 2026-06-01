@@ -89,7 +89,7 @@ A REST API that allows users to register, log in, and submit news articles with 
 
 
 ## 📫 Connect With Me
-[![Portfolio 2](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://sidrashahid.netlify.app/)
+[![Portfolio 2](https://img.shields.io/badge/Portfolio2-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://sidrashahid.netlify.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://sidrashahid0510.github.io/FED1-PORTFOLIO/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510)
 
