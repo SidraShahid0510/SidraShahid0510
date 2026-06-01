@@ -32,7 +32,7 @@ Zing is a social media app featuring CRUD posts, comments, reactions, and follow
 
 **Tech:** HTML • CSS • Vanilla JS (ES modules)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/ZING-SM-APP/index.html) [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/ZING-SM-APP.git)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f883d?style=for-the-badge&logo=vercel&logoColor=white)](https://sidrashahid0510.github.io/ZING-SM-APP/index.html) [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidraShahid0510/ZING-SM-APP/tree/css-frameworks)
 ---
 
 ### 🔨 Auction House
