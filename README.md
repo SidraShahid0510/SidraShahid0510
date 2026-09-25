@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 
-I am a frontend development student passionate about creating clean, responsive, and user-friendly websites.
+I’m a frontend developer passionate about creating clean, responsive, and user-friendly websites. I enjoy learning new technologies and building engaging digital experiences.
 
 - 🌱 Currently learning HTML, CSS, JavaScript, and API integration
 - 💻 Building projects as part of my frontend development course
