@@ -6,9 +6,9 @@
 
 I’m a frontend developer passionate about creating clean, responsive, and user-friendly websites. I enjoy learning new technologies and building engaging digital experiences.
 
-- 🌱 Currently learning HTML, CSS, JavaScript, and API integration
-- 💻 Building projects as part of my frontend development course
-- 🎯 Goal: Become a professional frontend developer
+- 🌱 Developing my skills in React, TypeScript, JavaScript, and API integration
+- 💻 Building and improving frontend projects
+- 🎯 Looking for opportunities to gain professional experience as a frontend developer
 - ✨ Interested in responsive design, accessibility, and modern UI
 
 
